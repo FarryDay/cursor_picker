@@ -5,3 +5,5 @@ Start up and press
 ```
 CTR + ALT + D
 ```
+# Download link
+[Download](https://github.com/FarryDay/cursor_picker/releases/tag/Release)
